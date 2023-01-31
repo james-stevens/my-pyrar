@@ -6,4 +6,4 @@ RUN rm -f /opt/pyrar/pems/*
 
 # install my config
 COPY pems /opt/pyrar/pems/
-COPY etc /opt/pyrar/etc/
+COPY config /opt/pyrar/config/
